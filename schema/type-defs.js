@@ -46,3 +46,5 @@ const typeDefs = gql`
     UKRAINE
   }
 `;
+
+module.exports = { typeDefs };
